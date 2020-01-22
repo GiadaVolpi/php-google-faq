@@ -39,5 +39,18 @@
             }
             ?>
         </main>
+        <footer>
+            <div class="footer-content">
+                <small>Google - Informazioni su Google - vita privata - condizioni</small>
+                <select>
+                    <option>Deutsch</option>
+                    <option>English</option>
+                    <option>Français</option>
+                    <option>Italiano</option>
+                    <option>Polski</option>
+                    <option>中文（简体中文</option>
+                </select>
+            </div>
+        </footer>
     </body>
 </html>
